@@ -9,13 +9,6 @@ package projetox;
  *
  * @author aqbs
  */
-public class ProjetoX {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Ola");
-    }
+public class NovoClass {
     
 }
